@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bharat Rajani
+- 👀 I’m interested in tech.
+- 🌱 I’m currently learning Golang and Kubernetes
+- 💞️ I’m looking to collaborate on awesome projects and ideas.
+- 📫 You can reach me on https://bharatrajani.com or bharat.ramrajani@gmail.com
